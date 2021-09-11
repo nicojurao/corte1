@@ -1,0 +1,3 @@
+pip freeze > requirements.txt     genera un archivo txt con los plugins necesarios para que se pueda ejecutar el proyecto
+pip install mysql_connector_python   instala el plugin de mysql mysql_connector_pytho
+
